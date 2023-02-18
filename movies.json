@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "63ee692462c7c4c1c24d6067"
+  },
+  "title": "Reservoir Dogs",
+  "year": 1992,
+  "actors": " Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+  "genre": "Crime, Thriller"
+},{
+  "_id": {
+    "$oid": "63ee6a9262c7c4c1c24d6068"
+  },
+  "title": "True Romance",
+  "year": 1993,
+  "actors": "Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer",
+  "genre": "Crime, Drama, Romance"
+},{
+  "_id": {
+    "$oid": "63ee6b7d62c7c4c1c24d6069"
+  },
+  "title": "Natural Born Killers",
+  "year": 1994,
+  "actors": " Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield ",
+  "genre": " Action, Crime, Drama "
+},{
+  "_id": {
+    "$oid": "63ee6b9462c7c4c1c24d606a"
+  },
+  "title": "Pulp Fiction",
+  "year": 1994,
+  "actors": " John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis ",
+  "genre": " Crime, Drama "
+},{
+  "_id": {
+    "$oid": "63ee6c1362c7c4c1c24d606b"
+  },
+  "title": " From Dusk Till Dawn",
+  "year": 1996,
+  "actors": " Harvey Keitel, George Clooney, Juliette Lewis, Quentin Tarantino ",
+  "genre": " Action, Crime, Horror "
+},{
+  "_id": {
+    "$oid": "63ee6c4f62c7c4c1c24d606c"
+  },
+  "title": "  Jackie Brown ",
+  "year": 1997,
+  "actors": " Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda ",
+  "genre": " Crime, Drama, Thriller "
+},{
+  "_id": {
+    "$oid": "63ee6cad62c7c4c1c24d606d"
+  },
+  "title": " Kill Bill: Vol. 1 ",
+  "year": 2003,
+  "actors": " Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen ",
+  "genre": " Crime, Action, Drama "
+},{
+  "_id": {
+    "$oid": "63ee6cc862c7c4c1c24d606e"
+  },
+  "title": " Kill Bill: Vol. 2 ",
+  "year": 2004,
+  "actors": " Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen ",
+  "genre": " Crime, Action, Thriller "
+},{
+  "_id": {
+    "$oid": "63ee6d3862c7c4c1c24d606f"
+  },
+  "title": " Death Proof ",
+  "year": 2007,
+  "actors": " Kurt Russell, Zoë Bell, Rosario Dawson, Vanessa Ferlito ",
+  "genre": " Action, Thriller "
+},{
+  "_id": {
+    "$oid": "63ee6d9a62c7c4c1c24d6070"
+  },
+  "title": "Inglourious Basterds",
+  "year": 2009,
+  "actors": " Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent ",
+  "genre": "  Adventure, Drama, War  "
+},{
+  "_id": {
+    "$oid": "63ee6dda62c7c4c1c24d6071"
+  },
+  "title": " Django Unchained",
+  "year": 2012,
+  "actors": " Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington ",
+  "genre": " Drama, Western "
+},{
+  "_id": {
+    "$oid": "63ee6e6c62c7c4c1c24d6072"
+  },
+  "title": "Once Upon A Time... in Hollywood",
+  "year": 2019,
+  "actors": " Brad Pitt, Leonardo DiCaprio, Margot Robbie",
+  "genre": " Comedy, Drama "
+}]
